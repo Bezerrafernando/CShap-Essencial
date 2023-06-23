@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net7.0\3Estrutura_if_else_if.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net7.0\3Estrutura_if_else_if.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net7.0\3Estrutura_if_else_if.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net7.0\3Estrutura_if_else_if.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net7.0\3Estrutura_if_else_if.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\refint\3Estrutura_if_else_if.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\3Estrutura_if_else_if.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net7.0\ref\3Estrutura_if_else_if.dll

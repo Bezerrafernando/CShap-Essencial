@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\bin\Debug\net7.0\9Repeticao_for.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\bin\Debug\net7.0\9Repeticao_for.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\bin\Debug\net7.0\9Repeticao_for.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\bin\Debug\net7.0\9Repeticao_for.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\bin\Debug\net7.0\9Repeticao_for.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\refint\9Repeticao_for.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\9Repeticao_for.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\9Repeticao_for\obj\Debug\net7.0\ref\9Repeticao_for.dll

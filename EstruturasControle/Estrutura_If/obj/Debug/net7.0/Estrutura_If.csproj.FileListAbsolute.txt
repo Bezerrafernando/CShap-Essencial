@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\bin\Debug\net7.0\Estrutura_If.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\bin\Debug\net7.0\Estrutura_If.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\bin\Debug\net7.0\Estrutura_If.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\bin\Debug\net7.0\Estrutura_If.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\bin\Debug\net7.0\Estrutura_If.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\refint\Estrutura_If.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\Estrutura_If.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\Estrutura_If\obj\Debug\net7.0\ref\Estrutura_If.dll

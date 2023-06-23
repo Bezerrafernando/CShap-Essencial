@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\bin\Debug\net7.0\2Estrutura_If_else.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\bin\Debug\net7.0\2Estrutura_If_else.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\bin\Debug\net7.0\2Estrutura_If_else.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\bin\Debug\net7.0\2Estrutura_If_else.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\bin\Debug\net7.0\2Estrutura_If_else.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\refint\2Estrutura_If_else.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\2Estrutura_If_else.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\2Estrutura_If_else\obj\Debug\net7.0\ref\2Estrutura_If_else.dll
