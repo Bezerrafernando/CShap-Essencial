@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\bin\Debug\net7.0\3POO_HerancaConstrutores.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\bin\Debug\net7.0\3POO_HerancaConstrutores.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\bin\Debug\net7.0\3POO_HerancaConstrutores.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\bin\Debug\net7.0\3POO_HerancaConstrutores.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\bin\Debug\net7.0\3POO_HerancaConstrutores.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\refint\3POO_HerancaConstrutores.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\3POO_HerancaConstrutores.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\3POO_HerancaConstrutores\obj\Debug\net7.0\ref\3POO_HerancaConstrutores.dll

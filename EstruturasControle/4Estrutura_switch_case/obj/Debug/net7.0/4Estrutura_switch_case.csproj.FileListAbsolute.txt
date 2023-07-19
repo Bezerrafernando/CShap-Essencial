@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\bin\Debug\net7.0\4Estrutura_switch_case.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\bin\Debug\net7.0\4Estrutura_switch_case.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\bin\Debug\net7.0\4Estrutura_switch_case.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\bin\Debug\net7.0\4Estrutura_switch_case.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\bin\Debug\net7.0\4Estrutura_switch_case.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\refint\4Estrutura_switch_case.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\4Estrutura_switch_case.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\4Estrutura_switch_case\obj\Debug\net7.0\ref\4Estrutura_switch_case.dll

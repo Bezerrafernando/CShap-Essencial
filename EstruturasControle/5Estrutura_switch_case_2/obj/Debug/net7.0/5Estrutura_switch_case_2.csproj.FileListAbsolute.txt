@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\bin\Debug\net7.0\5Estrutura_switch_case_2.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\bin\Debug\net7.0\5Estrutura_switch_case_2.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\bin\Debug\net7.0\5Estrutura_switch_case_2.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\bin\Debug\net7.0\5Estrutura_switch_case_2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\bin\Debug\net7.0\5Estrutura_switch_case_2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\refint\5Estrutura_switch_case_2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\5Estrutura_switch_case_2.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\EstruturasControle\5Estrutura_switch_case_2\obj\Debug\net7.0\ref\5Estrutura_switch_case_2.dll
