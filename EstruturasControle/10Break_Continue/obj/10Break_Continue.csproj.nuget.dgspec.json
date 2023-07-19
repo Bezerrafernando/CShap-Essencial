@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj": {}
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj": {
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
+        "projectUniqueName": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
         "projectName": "10Break_Continue",
-        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
+        "projectPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
         "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\obj\\",
+        "outputPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",

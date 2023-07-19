@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\bin\Debug\net7.0\4Heranca_Object.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\bin\Debug\net7.0\4Heranca_Object.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\bin\Debug\net7.0\4Heranca_Object.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\bin\Debug\net7.0\4Heranca_Object.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\bin\Debug\net7.0\4Heranca_Object.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\refint\4Heranca_Object.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\4Heranca_Object.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\4Heranca_Object\obj\Debug\net7.0\ref\4Heranca_Object.dll

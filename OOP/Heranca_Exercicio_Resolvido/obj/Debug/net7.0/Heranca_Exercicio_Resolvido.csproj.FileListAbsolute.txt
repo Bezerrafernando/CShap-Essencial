@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\bin\Debug\net7.0\Heranca_Exercicio_Resolvido.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\bin\Debug\net7.0\Heranca_Exercicio_Resolvido.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\bin\Debug\net7.0\Heranca_Exercicio_Resolvido.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\bin\Debug\net7.0\Heranca_Exercicio_Resolvido.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\bin\Debug\net7.0\Heranca_Exercicio_Resolvido.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\refint\Heranca_Exercicio_Resolvido.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\Heranca_Exercicio_Resolvido.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\Heranca_Exercicio_Resolvido\obj\Debug\net7.0\ref\Heranca_Exercicio_Resolvido.dll

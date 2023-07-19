@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj": {}
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj": {
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj",
+        "projectUniqueName": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj",
         "projectName": "9Repeticao_for",
-        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj",
+        "projectPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\9Repeticao_for.csproj",
         "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\obj\\",
+        "outputPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\9Repeticao_for\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",

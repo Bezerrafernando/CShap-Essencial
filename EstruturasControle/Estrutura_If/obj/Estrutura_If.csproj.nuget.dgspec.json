@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj": {}
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj": {
+    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj",
+        "projectUniqueName": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj",
         "projectName": "Estrutura_If",
-        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj",
+        "projectPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\Estrutura_If.csproj",
         "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\obj\\",
+        "outputPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Estrutura_If\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
