@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\bin\Debug\net7.0\9Heranca_UpcastingDowncasting.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\bin\Debug\net7.0\9Heranca_UpcastingDowncasting.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\bin\Debug\net7.0\9Heranca_UpcastingDowncasting.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\bin\Debug\net7.0\9Heranca_UpcastingDowncasting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\bin\Debug\net7.0\9Heranca_UpcastingDowncasting.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\refint\9Heranca_UpcastingDowncasting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\9Heranca_UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\9Heranca_UpcastingDowncasting\obj\Debug\net7.0\ref\9Heranca_UpcastingDowncasting.dll
