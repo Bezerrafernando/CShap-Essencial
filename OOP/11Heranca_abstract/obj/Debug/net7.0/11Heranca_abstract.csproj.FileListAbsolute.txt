@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\bin\Debug\net7.0\11Heranca_abstract.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\bin\Debug\net7.0\11Heranca_abstract.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\bin\Debug\net7.0\11Heranca_abstract.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\bin\Debug\net7.0\11Heranca_abstract.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\bin\Debug\net7.0\11Heranca_abstract.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\refint\11Heranca_abstract.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\11Heranca_abstract.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\11Heranca_abstract\obj\Debug\net7.0\ref\11Heranca_abstract.dll

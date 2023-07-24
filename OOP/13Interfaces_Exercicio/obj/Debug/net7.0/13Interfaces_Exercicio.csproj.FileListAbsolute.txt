@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\bin\Debug\net7.0\13Interfaces_Exercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\bin\Debug\net7.0\13Interfaces_Exercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\bin\Debug\net7.0\13Interfaces_Exercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\bin\Debug\net7.0\13Interfaces_Exercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\bin\Debug\net7.0\13Interfaces_Exercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\refint\13Interfaces_Exercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\13Interfaces_Exercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\13Interfaces_Exercicio\obj\Debug\net7.0\ref\13Interfaces_Exercicio.dll

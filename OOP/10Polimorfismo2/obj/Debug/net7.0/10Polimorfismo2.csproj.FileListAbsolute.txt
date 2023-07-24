@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\bin\Debug\net7.0\10Polimorfismo2.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\bin\Debug\net7.0\10Polimorfismo2.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\bin\Debug\net7.0\10Polimorfismo2.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\bin\Debug\net7.0\10Polimorfismo2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\bin\Debug\net7.0\10Polimorfismo2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\refint\10Polimorfismo2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\10Polimorfismo2.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\10Polimorfismo2\obj\Debug\net7.0\ref\10Polimorfismo2.dll

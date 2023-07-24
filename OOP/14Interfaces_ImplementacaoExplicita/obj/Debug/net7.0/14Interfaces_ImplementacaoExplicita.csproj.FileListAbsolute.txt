@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\bin\Debug\net7.0\14Interfaces_ImplementacaoExplicita.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\bin\Debug\net7.0\14Interfaces_ImplementacaoExplicita.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\bin\Debug\net7.0\14Interfaces_ImplementacaoExplicita.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\bin\Debug\net7.0\14Interfaces_ImplementacaoExplicita.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\bin\Debug\net7.0\14Interfaces_ImplementacaoExplicita.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\refint\14Interfaces_ImplementacaoExplicita.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\14Interfaces_ImplementacaoExplicita.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\14Interfaces_ImplementacaoExplicita\obj\Debug\net7.0\ref\14Interfaces_ImplementacaoExplicita.dll

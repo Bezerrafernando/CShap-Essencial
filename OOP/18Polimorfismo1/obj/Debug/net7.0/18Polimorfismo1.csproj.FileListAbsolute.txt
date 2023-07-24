@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\bin\Debug\net7.0\18Polimorfismo1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\bin\Debug\net7.0\18Polimorfismo1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\bin\Debug\net7.0\18Polimorfismo1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\bin\Debug\net7.0\18Polimorfismo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\bin\Debug\net7.0\18Polimorfismo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\refint\18Polimorfismo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\18Polimorfismo1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\18Polimorfismo1\obj\Debug\net7.0\ref\18Polimorfismo1.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\bin\Debug\net7.0\15Composicao.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\bin\Debug\net7.0\15Composicao.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\bin\Debug\net7.0\15Composicao.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\bin\Debug\net7.0\15Composicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\bin\Debug\net7.0\15Composicao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\refint\15Composicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\15Composicao.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\15Composicao\obj\Debug\net7.0\ref\15Composicao.dll

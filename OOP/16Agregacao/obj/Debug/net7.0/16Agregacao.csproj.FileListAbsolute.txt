@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\bin\Debug\net7.0\16Agregacao.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\bin\Debug\net7.0\16Agregacao.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\bin\Debug\net7.0\16Agregacao.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\bin\Debug\net7.0\16Agregacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\bin\Debug\net7.0\16Agregacao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\refint\16Agregacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\16Agregacao.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP\16Agregacao\obj\Debug\net7.0\ref\16Agregacao.dll
