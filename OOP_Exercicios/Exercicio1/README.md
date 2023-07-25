@@ -16,14 +16,14 @@ método Dirigir do carro.
 
 Explicação:
 
-1. Primeiro, definimos a interface IVeiculo, com os métodos Dirigir() (sem retorno - void) e Abastecer(int quantidade) (com retorno bool).
+1. Primeiro, definimos a interface `IVeiculo`, com os métodos `Dirigir()` (sem retorno - `void`) e `Abastecer(int quantidade)` (com retorno `bool`).
 
-2. Em seguida, criamos a classe Carro, que implementa a interface IVeiculo. A classe possui um campo privado gasolina para armazenar a quantidade de gasolina do carro.
+2. Em seguida, criamos a classe `Carro`, que implementa a interface `IVeiculo`. A classe possui um campo privado `gasolina` para armazenar a quantidade de gasolina do carro.
 
-3. O construtor da classe Carro é utilizado para definir a quantidade inicial de gasolina do carro.
+3. O construtor da classe `Carro` é utilizado para definir a quantidade inicial de gasolina do carro.
 
-4. No método Dirigir(), verificamos se a quantidade de gasolina é maior que 0. Se for, exibimos a mensagem "Dirigindo o carro..."; caso contrário, exibimos "Sem gasolina...".
+4. No método `Dirigir()`, verificamos se a quantidade de gasolina é maior que 0. Se for, exibimos a mensagem "Dirigindo o carro..."; caso contrário, exibimos "Sem gasolina...".
 
-5. O método Abastecer(int quantidade) é responsável por aumentar a quantidade de gasolina do carro em quantidade.
+5. O método `Abastecer(int quantidade)` é responsável por aumentar a quantidade de gasolina do carro em `quantidade`.
 
-6. No método Main, solicitamos ao usuário a quantidade de gasolina para abastecer via teclado, criamos um objeto meuCarro da classe Carro com 0 de gasolina inicial, abastecemos o carro com a quantidade fornecida pelo usuário e, por fim, executamos o método Dirigir() do carro.
+6. No método `Main`, solicitamos ao usuário a quantidade de gasolina para abastecer via teclado, criamos um objeto `meuCarro` da classe `Carro` com 0 de gasolina inicial, abastecemos o carro com a quantidade fornecida pelo usuário e, por fim, executamos o método `Dirigir()` do carro.

@@ -12,10 +12,16 @@ construtor pai da classe Pessoa.
 Termine o programa lendo as pessoas (o professor e os alunos) e execute os métodos
 Explicar e Estudar.
 
-Explicação:
+Para criar o programa em C#, siga os passos descritos abaixo:
 
-1. Crie a classe base Pessoa
-2. Crie a classe Aluno, que herda de Pessoa
-3. Crie a classe Professor, que também herda de Pessoa
+1. Crie a classe base `Pessoa`:
+
+2. Crie a classe `Aluno`, que herda de `Pessoa`:
+
+3. Crie a classe `Professor`, que também herda de `Pessoa`:
+
 4. No programa principal, crie um método para ler os nomes e instanciar os objetos:
-Neste programa, criamos as classes Pessoa, Aluno e Professor. O usuário pode inserir os nomes das três pessoas, e em seguida, a matriz de objetos é criada. O método Explicar é chamado para o professor e o método Estudar é chamado para os alunos.
+
+Neste programa, criamos as classes `Pessoa`, `Aluno` e `Professor`. O usuário pode inserir os nomes das três pessoas, e em seguida, a matriz de objetos é criada. O método `Explicar` é chamado para o professor e o método `Estudar` é chamado para os alunos.
+
+Lembre-se de que, para executar o código, você precisará criar um projeto em C# no Visual Studio ou utilizar um ambiente de desenvolvimento compatível. Certifique-se de colar todo o código apresentado acima e execute o programa.
