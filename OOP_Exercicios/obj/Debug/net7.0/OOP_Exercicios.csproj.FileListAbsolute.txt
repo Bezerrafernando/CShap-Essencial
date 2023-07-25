@@ -1,0 +1,5 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP_Exercicios\obj\Debug\net7.0\OOP_Exercicios.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP_Exercicios\obj\Debug\net7.0\OOP_Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP_Exercicios\obj\Debug\net7.0\OOP_Exercicios.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP_Exercicios\obj\Debug\net7.0\OOP_Exercicios.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\OOP_Exercicios\obj\Debug\net7.0\OOP_Exercicios.csproj.CoreCompileInputs.cache
