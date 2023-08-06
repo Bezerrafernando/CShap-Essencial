@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\bin\Debug\net7.0\09HashSet.exe
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\bin\Debug\net7.0\09HashSet.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\bin\Debug\net7.0\09HashSet.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\bin\Debug\net7.0\09HashSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\bin\Debug\net7.0\09HashSet.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\refint\09HashSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\09HashSet.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\09HashSet\obj\Debug\net7.0\ref\09HashSet.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\bin\Debug\net7.0\05Analise3.exe
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\bin\Debug\net7.0\05Analise3.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\bin\Debug\net7.0\05Analise3.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\bin\Debug\net7.0\05Analise3.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\bin\Debug\net7.0\05Analise3.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\refint\05Analise3.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\05Analise3.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\05Analise3\obj\Debug\net7.0\ref\05Analise3.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\bin\Debug\net7.0\08SortedDictionary.exe
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\bin\Debug\net7.0\08SortedDictionary.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\bin\Debug\net7.0\08SortedDictionary.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\bin\Debug\net7.0\08SortedDictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\bin\Debug\net7.0\08SortedDictionary.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\refint\08SortedDictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\08SortedDictionary.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\08SortedDictionary\obj\Debug\net7.0\ref\08SortedDictionary.dll

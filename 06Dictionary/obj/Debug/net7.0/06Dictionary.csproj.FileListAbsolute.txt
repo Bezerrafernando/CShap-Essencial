@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\bin\Debug\net7.0\06Dictionary.exe
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\bin\Debug\net7.0\06Dictionary.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\bin\Debug\net7.0\06Dictionary.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\bin\Debug\net7.0\06Dictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\bin\Debug\net7.0\06Dictionary.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\refint\06Dictionary.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\06Dictionary.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\06Dictionary\obj\Debug\net7.0\ref\06Dictionary.dll

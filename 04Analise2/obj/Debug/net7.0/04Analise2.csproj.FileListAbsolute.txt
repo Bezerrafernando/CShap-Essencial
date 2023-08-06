@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\bin\Debug\net7.0\04Analise2.exe
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\bin\Debug\net7.0\04Analise2.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\bin\Debug\net7.0\04Analise2.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\bin\Debug\net7.0\04Analise2.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\bin\Debug\net7.0\04Analise2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\refint\04Analise2.dll
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\04Analise2.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio 2022\04Analise2\obj\Debug\net7.0\ref\04Analise2.dll
