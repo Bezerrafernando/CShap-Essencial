@@ -3,7 +3,6 @@ ClasseDerivada cd = new();
 cd.VerificaAcesso();
 
 Console.ReadKey();
-
 public class ClasseDerivada : ClasseBase
 {
     public void VerificaAcesso()
@@ -34,7 +33,6 @@ public class ClasseBase
         get { return private_var; }
         set {  private_var = value;}
     }
-
     public void Public_Membro()
     {
         Console.WriteLine("ClasseBase - Método Public");
@@ -47,7 +45,6 @@ public class ClasseBase
     {
         Console.WriteLine("ClasseBase - Internal");
     }
-
     protected internal void Protected_Internal_Membro()
     {
         Console.WriteLine("ClasseBase - Método protected internal");
