@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\bin\Debug\net7.0\01Generics.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\bin\Debug\net7.0\01Generics.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\bin\Debug\net7.0\01Generics.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\bin\Debug\net7.0\01Generics.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\bin\Debug\net7.0\01Generics.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\refint\01Generics.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\01Generics.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\01Generics\obj\Debug\net7.0\ref\01Generics.dll

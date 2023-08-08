@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\bin\Debug\net7.0\03Analise.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\bin\Debug\net7.0\03Analise.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\bin\Debug\net7.0\03Analise.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\bin\Debug\net7.0\03Analise.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\bin\Debug\net7.0\03Analise.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\refint\03Analise.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\03Analise.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\03Analise\obj\Debug\net7.0\ref\03Analise.dll

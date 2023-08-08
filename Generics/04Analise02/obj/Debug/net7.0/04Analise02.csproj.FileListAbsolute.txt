@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\bin\Debug\net7.0\04Analise02.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\bin\Debug\net7.0\04Analise02.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\bin\Debug\net7.0\04Analise02.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\bin\Debug\net7.0\04Analise02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\bin\Debug\net7.0\04Analise02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\refint\04Analise02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\04Analise02.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics_Colecoes_Genericas\04Analise02\obj\Debug\net7.0\ref\04Analise02.dll
