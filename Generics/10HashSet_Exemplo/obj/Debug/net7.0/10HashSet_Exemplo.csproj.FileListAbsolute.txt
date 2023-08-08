@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\refint\10HashSet_Exemplo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\10HashSet_Exemplo\obj\Debug\net7.0\ref\10HashSet_Exemplo.dll

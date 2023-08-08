@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\refint\12SortedSet.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\12SortedSet\obj\Debug\net7.0\ref\12SortedSet.dll

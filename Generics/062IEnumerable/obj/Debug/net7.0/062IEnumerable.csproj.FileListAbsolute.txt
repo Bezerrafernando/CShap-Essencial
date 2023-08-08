@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\refint\062IEnumerable.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\062IEnumerable\obj\Debug\net7.0\ref\062IEnumerable.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\bin\Debug\net7.0\17QueueExercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\bin\Debug\net7.0\17QueueExercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\bin\Debug\net7.0\17QueueExercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\bin\Debug\net7.0\17QueueExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\bin\Debug\net7.0\17QueueExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\refint\17QueueExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\17QueueExercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\17QueueExercicio\obj\Debug\net7.0\ref\17QueueExercicio.dll

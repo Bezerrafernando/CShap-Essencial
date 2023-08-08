@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\refint\16StackExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\16StackExercicio\obj\Debug\net7.0\ref\16StackExercicio.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\bin\Debug\net7.0\19ReadOnlyCollection2.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\bin\Debug\net7.0\19ReadOnlyCollection2.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\bin\Debug\net7.0\19ReadOnlyCollection2.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\bin\Debug\net7.0\19ReadOnlyCollection2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\bin\Debug\net7.0\19ReadOnlyCollection2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\refint\19ReadOnlyCollection2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\19ReadOnlyCollection2.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\19ReadOnlyCollection2\obj\Debug\net7.0\ref\19ReadOnlyCollection2.dll

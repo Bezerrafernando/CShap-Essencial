@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\bin\Debug\net7.0\051GetHashCode_Equals.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\bin\Debug\net7.0\051GetHashCode_Equals.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\bin\Debug\net7.0\051GetHashCode_Equals.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\bin\Debug\net7.0\051GetHashCode_Equals.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\bin\Debug\net7.0\051GetHashCode_Equals.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\refint\051GetHashCode_Equals.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\051GetHashCode_Equals.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\051GetHashCode_Equals\obj\Debug\net7.0\ref\051GetHashCode_Equals.dll

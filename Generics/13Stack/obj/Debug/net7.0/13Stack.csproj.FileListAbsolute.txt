@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\bin\Debug\net7.0\13Stack.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\bin\Debug\net7.0\13Stack.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\bin\Debug\net7.0\13Stack.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\bin\Debug\net7.0\13Stack.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\bin\Debug\net7.0\13Stack.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\refint\13Stack.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\13Stack.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\13Stack\obj\Debug\net7.0\ref\13Stack.dll

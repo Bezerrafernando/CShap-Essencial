@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\bin\Debug\net7.0\14Queue.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\bin\Debug\net7.0\14Queue.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\bin\Debug\net7.0\14Queue.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\bin\Debug\net7.0\14Queue.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\bin\Debug\net7.0\14Queue.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\refint\14Queue.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\14Queue.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14Queue\obj\Debug\net7.0\ref\14Queue.dll

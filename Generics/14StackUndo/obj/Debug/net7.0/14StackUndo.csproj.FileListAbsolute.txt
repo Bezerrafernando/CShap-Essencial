@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\refint\14StackUndo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Generics\14StackUndo\obj\Debug\net7.0\ref\14StackUndo.dll
