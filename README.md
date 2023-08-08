@@ -78,18 +78,22 @@ Independente de plataforma : o C# pode ser usado para criar aplicativos que func
 `Perguntas frequentes sobre C#`
 
 Q.1 Para que serve a linguagem de programação C#?
+
 `Resposta :`
 C# é uma linguagem de programação versátil usada principalmente para desenvolver aplicativos do Windows, serviços da Web e jogos na estrutura .NET.
 
 Q.2 Qual é a vantagem de usar a instrução em C#?
+
 `Resposta :`
 A instrução 'using' fornece recursos para processamento antes de descartá-los automaticamente quando a execução for concluída.
 
 Q.3 O que é serialização?
+
 `Resposta :`
 Para transportar um objeto através de uma rede, precisamos convertê-lo em um fluxo de bytes. Chama-se Serialização.
 
 Q.4 Quais são as quatro etapas envolvidas na compilação do código C#?
+
 `Resposta :`
 Quatro etapas de compilação de código em C# incluem:
 Compilação do código-fonte em código gerenciado.
@@ -98,5 +102,6 @@ O Common Language Runtime (CLR) é carregado.
 A execução da montagem é feita através do CLR.
 
 Q.5 Como posso declarar e inicializar variáveis ​​em C#?
+
 `Responder:`
 Variáveis ​​são contêineres nomeados que armazenam valores de diferentes tipos. Para declarar uma variável em C#, você precisa especificar seu tipo e nome.
