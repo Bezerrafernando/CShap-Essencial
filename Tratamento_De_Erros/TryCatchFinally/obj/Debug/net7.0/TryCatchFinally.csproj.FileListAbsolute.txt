@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\refint\TryCatchFinally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\TryCatchFinally\obj\Debug\net7.0\ref\TryCatchFinally.dll

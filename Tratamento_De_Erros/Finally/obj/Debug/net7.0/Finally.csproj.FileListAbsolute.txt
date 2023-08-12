@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\bin\Debug\net7.0\Finally.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\bin\Debug\net7.0\Finally.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\bin\Debug\net7.0\Finally.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\bin\Debug\net7.0\Finally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\bin\Debug\net7.0\Finally.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\refint\Finally.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\Finally.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\Finally\obj\Debug\net7.0\ref\Finally.dll
