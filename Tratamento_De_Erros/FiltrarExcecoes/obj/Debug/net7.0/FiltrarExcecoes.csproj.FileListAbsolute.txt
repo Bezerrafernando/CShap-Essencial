@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\bin\Debug\net7.0\FiltrarExcecoes.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\bin\Debug\net7.0\FiltrarExcecoes.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\bin\Debug\net7.0\FiltrarExcecoes.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\bin\Debug\net7.0\FiltrarExcecoes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\bin\Debug\net7.0\FiltrarExcecoes.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\refint\FiltrarExcecoes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\FiltrarExcecoes.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrarExcecoes\obj\Debug\net7.0\ref\FiltrarExcecoes.dll

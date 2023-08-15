@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\bin\Debug\net7.0\FiltrosExercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\bin\Debug\net7.0\FiltrosExercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\bin\Debug\net7.0\FiltrosExercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\bin\Debug\net7.0\FiltrosExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\bin\Debug\net7.0\FiltrosExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\refint\FiltrosExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\FiltrosExercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\FiltrosExercicio\obj\Debug\net7.0\ref\FiltrosExercicio.dll

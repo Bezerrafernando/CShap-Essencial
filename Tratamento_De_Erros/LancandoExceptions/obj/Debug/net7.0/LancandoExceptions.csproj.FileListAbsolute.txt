@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\refint\LancandoExceptions.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Essencial\Tratamento_De_Erros\LancandoExceptions\obj\Debug\net7.0\ref\LancandoExceptions.dll
