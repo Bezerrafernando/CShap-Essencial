@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\bin\Debug\net7.0\05ExpressoesLambdaExercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\bin\Debug\net7.0\05ExpressoesLambdaExercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\bin\Debug\net7.0\05ExpressoesLambdaExercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\bin\Debug\net7.0\05ExpressoesLambdaExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\bin\Debug\net7.0\05ExpressoesLambdaExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\refint\05ExpressoesLambdaExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\05ExpressoesLambdaExercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\05ExpressoesLambdaExercicio\obj\Debug\net7.0\ref\05ExpressoesLambdaExercicio.dll

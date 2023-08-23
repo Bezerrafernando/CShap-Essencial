@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\bin\Debug\net7.0\03Predicate.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\bin\Debug\net7.0\03Predicate.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\bin\Debug\net7.0\03Predicate.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\bin\Debug\net7.0\03Predicate.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\bin\Debug\net7.0\03Predicate.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\refint\03Predicate.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\03Predicate.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\03Predicate\obj\Debug\net7.0\ref\03Predicate.dll

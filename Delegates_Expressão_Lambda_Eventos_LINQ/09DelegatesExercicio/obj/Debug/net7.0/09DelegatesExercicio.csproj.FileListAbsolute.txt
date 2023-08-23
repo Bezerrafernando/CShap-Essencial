@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\bin\Debug\net7.0\09DelegatesExercicio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\bin\Debug\net7.0\09DelegatesExercicio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\bin\Debug\net7.0\09DelegatesExercicio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\bin\Debug\net7.0\09DelegatesExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\bin\Debug\net7.0\09DelegatesExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\refint\09DelegatesExercicio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\09DelegatesExercicio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\09DelegatesExercicio\obj\Debug\net7.0\ref\09DelegatesExercicio.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\bin\Debug\net7.0\02DelegateMulticast.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\refint\02DelegateMulticast.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\02DelegateMulticast.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\02DelegateMulticast\obj\Debug\net7.0\ref\02DelegateMulticast.dll
