@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\bin\Debug\net7.0\14LINQAgrupamento1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\refint\14LINQAgrupamento1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\14LINQAgrupamento1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\14LINQAgrupamento1\obj\Debug\net7.0\ref\14LINQAgrupamento1.dll

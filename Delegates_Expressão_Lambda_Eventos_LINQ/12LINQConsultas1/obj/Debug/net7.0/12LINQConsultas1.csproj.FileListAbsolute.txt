@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\refint\12LINQConsultas1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12LINQConsultas1\obj\Debug\net7.0\ref\12LINQConsultas1.dll

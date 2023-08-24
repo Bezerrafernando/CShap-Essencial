@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\bin\Debug\net7.0\12Eventos_EventHandler.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\bin\Debug\net7.0\12Eventos_EventHandler.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\bin\Debug\net7.0\12Eventos_EventHandler.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\bin\Debug\net7.0\12Eventos_EventHandler.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\bin\Debug\net7.0\12Eventos_EventHandler.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\refint\12Eventos_EventHandler.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\12Eventos_EventHandler.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Delegates_Expressão_Lambda_Eventos_LINQ\12Eventos_EventHandler\obj\Debug\net7.0\ref\12Eventos_EventHandler.dll
