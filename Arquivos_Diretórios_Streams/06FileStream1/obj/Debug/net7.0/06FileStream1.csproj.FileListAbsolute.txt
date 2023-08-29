@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\bin\Debug\net7.0\06FileStream1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\bin\Debug\net7.0\06FileStream1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\bin\Debug\net7.0\06FileStream1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\bin\Debug\net7.0\06FileStream1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\bin\Debug\net7.0\06FileStream1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\refint\06FileStream1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\06FileStream1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\06FileStream1\obj\Debug\net7.0\ref\06FileStream1.dll

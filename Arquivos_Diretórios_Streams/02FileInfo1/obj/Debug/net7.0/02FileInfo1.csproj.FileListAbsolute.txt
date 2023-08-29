@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\bin\Debug\net7.0\02FileInfo1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\bin\Debug\net7.0\02FileInfo1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\bin\Debug\net7.0\02FileInfo1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\bin\Debug\net7.0\02FileInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\bin\Debug\net7.0\02FileInfo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\refint\02FileInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\02FileInfo1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\02FileInfo1\obj\Debug\net7.0\ref\02FileInfo1.dll

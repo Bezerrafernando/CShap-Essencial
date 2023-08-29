@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\bin\Debug\net7.0\05Path1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\bin\Debug\net7.0\05Path1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\bin\Debug\net7.0\05Path1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\bin\Debug\net7.0\05Path1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\bin\Debug\net7.0\05Path1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\refint\05Path1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\05Path1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\05Path1\obj\Debug\net7.0\ref\05Path1.dll

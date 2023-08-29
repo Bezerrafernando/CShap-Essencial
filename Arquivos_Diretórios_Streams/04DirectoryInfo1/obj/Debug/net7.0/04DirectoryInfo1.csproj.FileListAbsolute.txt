@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\bin\Debug\net7.0\04DirectoryInfo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\refint\04DirectoryInfo1.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\04DirectoryInfo1.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\04DirectoryInfo1\obj\Debug\net7.0\ref\04DirectoryInfo1.dll

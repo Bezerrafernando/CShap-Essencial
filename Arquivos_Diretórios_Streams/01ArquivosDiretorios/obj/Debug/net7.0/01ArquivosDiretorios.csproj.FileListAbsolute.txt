@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\bin\Debug\net7.0\01ArquivosDiretorios.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\bin\Debug\net7.0\01ArquivosDiretorios.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\bin\Debug\net7.0\01ArquivosDiretorios.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\bin\Debug\net7.0\01ArquivosDiretorios.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\bin\Debug\net7.0\01ArquivosDiretorios.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\refint\01ArquivosDiretorios.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\01ArquivosDiretorios.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\01ArquivosDiretorios\obj\Debug\net7.0\ref\01ArquivosDiretorios.dll

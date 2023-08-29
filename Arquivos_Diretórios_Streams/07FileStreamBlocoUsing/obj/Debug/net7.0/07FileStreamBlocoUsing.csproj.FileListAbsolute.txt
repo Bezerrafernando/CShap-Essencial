@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\bin\Debug\net7.0\07FileStreamBlocoUsing.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\bin\Debug\net7.0\07FileStreamBlocoUsing.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\bin\Debug\net7.0\07FileStreamBlocoUsing.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\bin\Debug\net7.0\07FileStreamBlocoUsing.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\bin\Debug\net7.0\07FileStreamBlocoUsing.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\refint\07FileStreamBlocoUsing.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\07FileStreamBlocoUsing.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Arquivos_Diretórios_Streams\07FileStreamBlocoUsing\obj\Debug\net7.0\ref\07FileStreamBlocoUsing.dll
