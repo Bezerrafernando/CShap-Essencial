@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\bin\Debug\net7.0\06CancelamentoTarefas.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\bin\Debug\net7.0\06CancelamentoTarefas.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\bin\Debug\net7.0\06CancelamentoTarefas.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\bin\Debug\net7.0\06CancelamentoTarefas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\bin\Debug\net7.0\06CancelamentoTarefas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\refint\06CancelamentoTarefas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\06CancelamentoTarefas.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\06CancelamentoTarefas\obj\Debug\net7.0\ref\06CancelamentoTarefas.dll

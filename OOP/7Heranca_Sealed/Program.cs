@@ -7,7 +7,7 @@ cli.ExibeNome();
 Console.ReadKey();
 
 //sealed inibe a herança
-sealed class Pessoa
+class Pessoa
 {
     public string? Nome { get; set; }
     public void ExibeNome()
@@ -39,7 +39,7 @@ class ClasseBase
 
 class Classe1 : ClasseBase
 {
-    sealed protected override void Metodo1()
+     protected override void Metodo1()
     {
         Console.WriteLine("Classe1.Metodo1()");
     }
@@ -59,6 +59,6 @@ class Classe2 : Classe1
     }
     protected override void Metodo2()
     {
-        Console.WriteLine("Classe2.Metodo2()");
+        Console.WriteLine("Classe2.Metodo()");
     }
 }

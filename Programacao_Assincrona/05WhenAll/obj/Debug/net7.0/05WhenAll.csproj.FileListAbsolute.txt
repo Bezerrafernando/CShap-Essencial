@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\bin\Debug\net7.0\05WhenAll.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\bin\Debug\net7.0\05WhenAll.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\bin\Debug\net7.0\05WhenAll.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\bin\Debug\net7.0\05WhenAll.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\bin\Debug\net7.0\05WhenAll.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\refint\05WhenAll.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\05WhenAll.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\05WhenAll\obj\Debug\net7.0\ref\05WhenAll.dll

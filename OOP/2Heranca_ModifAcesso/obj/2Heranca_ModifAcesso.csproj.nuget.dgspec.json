@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj": {}
+    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj": {
+    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
         "projectName": "2Heranca_ModifAcesso",
-        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
         "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\2Heranca_ModifAcesso\\obj\\",
+        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\2Heranca_ModifAcesso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

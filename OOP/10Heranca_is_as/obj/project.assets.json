@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\10Heranca_is_as\\10Heranca_is_as.csproj",
+      "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\10Heranca_is_as\\10Heranca_is_as.csproj",
       "projectName": "10Heranca_is_as",
-      "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\10Heranca_is_as\\10Heranca_is_as.csproj",
+      "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\10Heranca_is_as\\10Heranca_is_as.csproj",
       "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\OOP\\10Heranca_is_as\\obj\\",
+      "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\OOP\\10Heranca_is_as\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

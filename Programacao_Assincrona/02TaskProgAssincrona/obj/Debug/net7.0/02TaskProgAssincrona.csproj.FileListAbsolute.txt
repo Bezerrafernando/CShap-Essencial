@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\bin\Debug\net7.0\02TaskProgAssincrona.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\refint\02TaskProgAssincrona.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\02TaskProgAssincrona.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\02TaskProgAssincrona\obj\Debug\net7.0\ref\02TaskProgAssincrona.dll
