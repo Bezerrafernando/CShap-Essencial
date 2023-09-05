@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\bin\Debug\net7.0\08TratamentoException02.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\bin\Debug\net7.0\08TratamentoException02.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\bin\Debug\net7.0\08TratamentoException02.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\bin\Debug\net7.0\08TratamentoException02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\bin\Debug\net7.0\08TratamentoException02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\refint\08TratamentoException02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\08TratamentoException02.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\C#_Learn\Programacao_Assincrona\08TratamentoException02\obj\Debug\net7.0\ref\08TratamentoException02.dll
