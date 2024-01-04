@@ -3,8 +3,13 @@
     static void Main(string[] agrs)
     {
         Console.Clear();
-        Exercicio11();
+        // Alterar numero do (exercicio?) para testar
+        Exercicio2();
     }
+
+    /* 1- Escreva um programa para receber 3 números inteiros 
+    e a seguir calcular e exibir qual deles é o maior */
+
     static void Exercicio1()
     {
         int num1, num2, num3;
@@ -12,13 +17,13 @@
         Console.Write("\nEncontre o maior numero dentre 3 número:\n");
 
         Console.Write("Digite Primeiro Número:\t");
-        num1 = Convert.ToInt32(Console.ReadLine());
+        num1 = int.Parse(Console.ReadLine());
 
         Console.Write("Digite Segundo Número:\t");
-        num2 = Convert.ToInt32(Console.ReadLine());
+        num2 = int.Parse(Console.ReadLine());
 
         Console.Write("Digite Terceiro Número:\t");
-        num3 = Convert.ToInt32(Console.ReadLine());
+        num3 = int.Parse(Console.ReadLine());
 
         if (num1 > num2)
         {
@@ -32,8 +37,14 @@
         else
             Console.Write($"O terceiro numero {num3} é o maior.");
     }
-    static void Exercicio2()
-    {
+        /*  2 - Escreva um programa para calcular a raiz da equação quadrática : ax^2 +bx + x = 0
+        - Considere a, b e c números inteiros apenas
+        - Para calcular as raízes use a fórmula de Báskara : x = (-b +- sqrt(delta))/2.a delta = b^2 -4.a.c
+        - Solicite a entrada de a , b e c e informe se existe ou não raiz real
+        Dica: Utilize os recursos da classe Math e use a instrução if-elseif 
+        */
+    static void Exercicio2() 
+    { 
         int a, b, c;
         double d, x1, x2;
 

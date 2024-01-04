@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Exercicios\\Exercicios.csproj": {}
+    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\EstruturasControle\\Exercicios\\Exercicios.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Exercicios\\Exercicios.csproj": {
+    "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\EstruturasControle\\Exercicios\\Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Exercicios\\Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\EstruturasControle\\Exercicios\\Exercicios.csproj",
         "projectName": "Exercicios",
-        "projectPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Exercicios\\Exercicios.csproj",
+        "projectPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\EstruturasControle\\Exercicios\\Exercicios.csproj",
         "packagesPath": "C:\\Users\\Dbezerra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Learn\\EstruturasControle\\Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
