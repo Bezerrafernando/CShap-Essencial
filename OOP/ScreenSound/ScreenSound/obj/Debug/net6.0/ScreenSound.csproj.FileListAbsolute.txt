@@ -1,0 +1,15 @@
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.sourcelink.json
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\Administrator\Documents\Visual Studio 2022\CShap-Learn\OOP\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
