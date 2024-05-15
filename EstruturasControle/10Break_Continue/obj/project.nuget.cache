@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2MLPQSLD5EY5LOrSZk9JzWw3iOHLYMzWqaEVMRjXbz5bspT5XPZZ/mcndfptNomUuG6AUCsgnv7Ff9/v+XpNaA==",
+  "dgSpecHash": "rjJjmGL+oRJ9J5DQsDvdV3HbxTDVbQVBkqenyFJoDVhnarfAgdfkaQfb0dyAuNw/ohZfvFBD75XmNU8P2McxVA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Administrator\\Documents\\Visual Studio 2022\\CShap-Learn\\EstruturasControle\\10Break_Continue\\10Break_Continue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

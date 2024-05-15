@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CTzescJaotxsLYZFiyBb68NwYjZ7Y7zkF2jy6yNEVx4Ft+xuWzjq7wmOtyh1NtS5C/v6YrYbinbrIHZirjOBlA==",
+  "dgSpecHash": "rUfArY8rKZ86fVefwSxKRIKOxN7J/C7ECnHK5mSBeCeOzaTwv03v9/EK2fkQhXmKSx5esjQhqb+Ie7NkyVexTQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\7Estrutura_while_2\\7Estrutura_while_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Administrator\\Documents\\Visual Studio 2022\\CShap-Learn\\EstruturasControle\\7Estrutura_while_2\\7Estrutura_while_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

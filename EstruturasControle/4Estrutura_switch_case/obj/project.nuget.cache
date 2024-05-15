@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iDcGxde9io7q/ihKX7M5irJWRQr/GZcihTZEvr1O4ZuBfYvtdmr4ih6S/7FCPWSYrMe98CFiSjG1ALv8YYsTDg==",
+  "dgSpecHash": "IIoU8DTNOladPz3KRvXhEk7nRxczE8qkmRDQ5q58+o0nNtui21M0ughikBOk0DhDLYtg+hveRD2c6la4ftnRYA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Administrator\\Documents\\Visual Studio 2022\\CShap-Learn\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h4DfD5aiyJia8nDIVJD7EK0qx8zAdPnV48lE0EAscPqn2eDN+G+bdcwrLHTeKvdsUVMUzlMl+SNYbHGa4Aw3aw==",
+  "dgSpecHash": "I+an32WByIYwAGipQvmn8J1lNyFvxOsd42DOQkEaH/U8712EQI+oTH8bDUx1hrMVg2MjaB+c4kfzMYIjLeJsIA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dbezerra\\Documents\\Visual Studio Code\\C#_Essencial\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Administrator\\Documents\\Visual Studio 2022\\CShap-Learn\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

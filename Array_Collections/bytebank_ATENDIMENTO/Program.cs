@@ -328,12 +328,3 @@ void CadastrarConta()
     Console.WriteLine("... Conta cadastrada com sucesso! ...");
     Console.ReadKey();
 }
-
-
-
-
-
-
-
-
-
